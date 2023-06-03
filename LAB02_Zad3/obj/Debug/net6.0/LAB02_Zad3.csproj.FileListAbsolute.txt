@@ -1,0 +1,15 @@
+G:\MojeVisualStudio\LAB02_Zad3\bin\Debug\net6.0\LAB02_Zad3.exe
+G:\MojeVisualStudio\LAB02_Zad3\bin\Debug\net6.0\LAB02_Zad3.deps.json
+G:\MojeVisualStudio\LAB02_Zad3\bin\Debug\net6.0\LAB02_Zad3.runtimeconfig.json
+G:\MojeVisualStudio\LAB02_Zad3\bin\Debug\net6.0\LAB02_Zad3.dll
+G:\MojeVisualStudio\LAB02_Zad3\bin\Debug\net6.0\LAB02_Zad3.pdb
+G:\MojeVisualStudio\LAB02_Zad3\obj\Debug\net6.0\LAB02_Zad3.csproj.AssemblyReference.cache
+G:\MojeVisualStudio\LAB02_Zad3\obj\Debug\net6.0\LAB02_Zad3.GeneratedMSBuildEditorConfig.editorconfig
+G:\MojeVisualStudio\LAB02_Zad3\obj\Debug\net6.0\LAB02_Zad3.AssemblyInfoInputs.cache
+G:\MojeVisualStudio\LAB02_Zad3\obj\Debug\net6.0\LAB02_Zad3.AssemblyInfo.cs
+G:\MojeVisualStudio\LAB02_Zad3\obj\Debug\net6.0\LAB02_Zad3.csproj.CoreCompileInputs.cache
+G:\MojeVisualStudio\LAB02_Zad3\obj\Debug\net6.0\LAB02_Zad3.dll
+G:\MojeVisualStudio\LAB02_Zad3\obj\Debug\net6.0\refint\LAB02_Zad3.dll
+G:\MojeVisualStudio\LAB02_Zad3\obj\Debug\net6.0\LAB02_Zad3.pdb
+G:\MojeVisualStudio\LAB02_Zad3\obj\Debug\net6.0\LAB02_Zad3.genruntimeconfig.cache
+G:\MojeVisualStudio\LAB02_Zad3\obj\Debug\net6.0\ref\LAB02_Zad3.dll
