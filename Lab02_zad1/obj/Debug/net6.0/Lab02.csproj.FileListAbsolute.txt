@@ -1,0 +1,15 @@
+G:\MojeVisualStudio\Lab02\obj\Debug\net6.0\Lab02.csproj.AssemblyReference.cache
+G:\MojeVisualStudio\Lab02\obj\Debug\net6.0\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+G:\MojeVisualStudio\Lab02\obj\Debug\net6.0\Lab02.AssemblyInfoInputs.cache
+G:\MojeVisualStudio\Lab02\obj\Debug\net6.0\Lab02.AssemblyInfo.cs
+G:\MojeVisualStudio\Lab02\obj\Debug\net6.0\Lab02.csproj.CoreCompileInputs.cache
+G:\MojeVisualStudio\Lab02\bin\Debug\net6.0\Lab02.exe
+G:\MojeVisualStudio\Lab02\bin\Debug\net6.0\Lab02.deps.json
+G:\MojeVisualStudio\Lab02\bin\Debug\net6.0\Lab02.runtimeconfig.json
+G:\MojeVisualStudio\Lab02\bin\Debug\net6.0\Lab02.dll
+G:\MojeVisualStudio\Lab02\bin\Debug\net6.0\Lab02.pdb
+G:\MojeVisualStudio\Lab02\obj\Debug\net6.0\Lab02.dll
+G:\MojeVisualStudio\Lab02\obj\Debug\net6.0\refint\Lab02.dll
+G:\MojeVisualStudio\Lab02\obj\Debug\net6.0\Lab02.pdb
+G:\MojeVisualStudio\Lab02\obj\Debug\net6.0\Lab02.genruntimeconfig.cache
+G:\MojeVisualStudio\Lab02\obj\Debug\net6.0\ref\Lab02.dll
